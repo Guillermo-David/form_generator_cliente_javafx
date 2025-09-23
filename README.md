@@ -19,7 +19,7 @@ El proyecto es un ejemplo de integración de un frontend JavaFX con un backend R
 - Generación de informes dinámicos en diferentes formatos.  
 - Envío de correo con los informes adjuntos.  
 - Uso de librerías como JasperReports, iText y Apache POI.  
-- ... y otras características interesantes descritas en el [readme del backend](https://github.com/Guillermo-David/generador_informes_backend).
+- ... y otras características interesantes descritas en el [readme del backend](https://github.com/Guillermo-David/generador_informes_backend/blob/master/README.md).
 
 ---
 
