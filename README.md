@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/f86d4e14-c8cc-4659-b1f5-0c551941902b" alt="Logo" width="150"/>
 </p>
 
-# Formulario de Informe JavaFX
+# Frontend - Generador de Informes
 
 **Autor:** Guillermo David García  
 **Licencia:** MIT License
