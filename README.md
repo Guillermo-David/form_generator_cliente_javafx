@@ -11,7 +11,7 @@
 
 ## Descripción
 
-Este proyecto es una aplicación de escritorio desarrollada en **JavaFX** con [**Spring Boot** como backend](https://github.com/Guillermo-David/form_generator_backend). Permite a los usuarios rellenar un formulario y recibir un informe generado en **PDF** (JasperReports o iText) o **Excel** (Apache POI), según la opción seleccionada.  
+Este proyecto es una aplicación de escritorio desarrollada en **JavaFX** con [**Spring Boot** como backend](https://github.com/Guillermo-David/generador_informes_backend). Permite a los usuarios rellenar un formulario y recibir un informe generado en **PDF** (JasperReports o iText) o **Excel** (Apache POI), según la opción seleccionada.  
 
 El proyecto es un ejemplo de integración de un frontend JavaFX con un backend REST, mostrando:  
 - Validaciones de formulario.  
@@ -52,7 +52,7 @@ El proyecto es un ejemplo de integración de un frontend JavaFX con un backend R
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/Guillermo-David/formulario_cliente_javafx.git
+git clone https://github.com/Guillermo-David/generador_informes_frontend.git
 ```
 ---
 2. Construye el proyecto con Maven:
