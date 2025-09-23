@@ -5,7 +5,7 @@
 <?import javafx.scene.image.*?>
 
 <VBox xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" 
-      fx:controller="com.doc_generator.formulario.FormController"
+      fx:controller="com.generador_informes.frontend.FormController"
       spacing="15" alignment="TOP_CENTER" style="-fx-padding: 20;">
     
     <!-- Logo -->
