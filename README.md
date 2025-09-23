@@ -49,22 +49,7 @@ El proyecto es un ejemplo de integración de un frontend JavaFX con un backend R
 ---
 
 ## Instalación y ejecución
+Las instrucciones de instalaciópn y ejecución se encuentran en el README.md del [repositorio del backend](https://github.com/Guillermo-David/generador_informes_backend/blob/master/README.md).
 
-1. Clona el repositorio:
-```bash
-git clone https://github.com/Guillermo-David/generador_informes_frontend.git
-```
----
-2. Construye el proyecto con Maven:
-```bash
-mvn clean install
-```
----
-3. Ejecuta la aplicación:
-```bash
-mvn javafx:run
-```
-> **Nota:** Asegúrate de tener configurado tu servidor SMTP en el backend para el envío de correos.
----
 ## Licencia
 Este proyecto está licenciado bajo la MIT License. Puedes usar, copiar, modificar y distribuir este software, siempre conservando la atribución al autor.
